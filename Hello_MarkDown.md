@@ -17,7 +17,7 @@
 - Collaboration
 - Documentation
 
-Full documentation of Markdown's syntax: [Markdown](https://daringfireball.net/projects/markdown/) | [Alt Guide](https://www.markdownguide.org/) 
+Full documentation of Markdown's syntax: [Markdown](https://daringfireball.net/projects/markdown/) | [Alt Guide](https://www.markdownguide.org/)        
 To Practice: [Practice](https://www.markdowntutorial.com/)  
 To check .md to xhtml conversion: [Dillinger](https://dillinger.io/)
 
